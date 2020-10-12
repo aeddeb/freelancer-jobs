@@ -1,0 +1,5 @@
+#Remove irrelevant folders
+.ipynb_checkpoints
+.vscode
+freelancer_api
+models
