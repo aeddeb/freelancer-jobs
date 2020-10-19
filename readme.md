@@ -5,7 +5,7 @@
 #### Below I describe the steps completed in this project and relay insights. 
 
 ## A. Data Collection
-18,706 freelancer jobs were scraped from freelancer.com on Sept 03, 2020 and the scraper, scrape.py, is located in the scripts directory.
+18,706 freelancer jobs were scraped from freelancer.com on Sept 03, 2020 and the scraper, scrape.py, is located in the scripts directory. *Please note data was scraped for educational purposes only!*
 
 ## B. Data Cleaning
 Initial cleaning of the data was completed in the 1_data_cleaning.ipynb notebook. Then the cleaning steps were functionalized into a script, clean.py, which is located in the scripts directory.
