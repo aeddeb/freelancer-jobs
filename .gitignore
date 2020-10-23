@@ -4,3 +4,10 @@
 freelancer_api
 models
 visualizations
+
+#ignore all notebooks except:
+*.ipynb
+!1_data_cleaning.ipynb
+!2a_data_eda.ipynb
+!2b_data_eda.ipynb
+!3_data_clustering.ipynb
